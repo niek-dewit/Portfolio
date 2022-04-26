@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmmmmniek/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmmmmniek/Portfolio/issues"
+  },
+  "homepage": "https://github.com/hmmmmniek/Portfolio#readme",
+  "devDependencies": {
+    "firebase-cli": "^1.2.0",
+    "firebase-tools": "^10.7.0"
+  }
+}
